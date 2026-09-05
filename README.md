@@ -4,8 +4,16 @@
 <p align="Center">
   <img src="assets/images/header.png" width=921 />
 </p>
+<p align="center">
+
+  🎥 <b>SIH 2026 Team Aura - Solution Demo Video</b><br>
+
+  <a href="https://youtu.be/-I170wRGj0w?si=S5pz6ibm7kWk2gB1">▶ Video</a>
+
+</p>
 
 ## SIH26-A0H-T184
+
 ### Team Details
 #### **Team Name** : Aura <br/>
 #### Team Members
