@@ -19,12 +19,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |  NIMAL DANYATH K        | CB.SC.U4CSE24033       |    Male         |  B.Tech/ CSE                    |  
-|    Member 2     |  CHAVALI ANANTA ADIDYA  | CB.SC.U4CSE24008       |    Male         |  B.Tech/ CSE                    |  
-|    Member 3     |  PARTHIVSURYA K B       | CB.SC.U4CSE24535       |    Male         |  B.Tech/ CSE                    |  
-|    Member 4     |  RUTHWIK NARAYAN P      | CB.SC.U4CSE24043       |    Male         |  B.Tech/ CSE                    |   
-|    Member 5     |  NIKHIL RAJ L           | CB.SC.U4CSE24026       |    Male         |  B.Tech/ CSE                    |  
-|    Member 6     |  NEERAJA K              | CB.SC.U4CSE24529       |    Female       |  B.Tech/ CSE                     |   
+|   Team Leader   |  NIMAL DANYATH K        | CB.SC.U4CSE24033       |    Male         |          CSE                    |  
+|    Member 2     |  CHAVALI ANANTA ADIDYA  | CB.SC.U4CSE24008       |    Male         |          CSE                    |  
+|    Member 3     |  PARTHIVSURYA K B       | CB.SC.U4CSE24535       |    Male         |          CSE                    |  
+|    Member 4     |  RUTHWIK NARAYAN P      | CB.SC.U4CSE24043       |    Male         |          CSE                    |   
+|    Member 5     |  NIKHIL RAJ L           | CB.SC.U4CSE24026       |    Male         |          CSE                    |  
+|    Member 6     |  NEERAJA K              | CB.SC.U4CSE24529       |    Female       |          CSE                    |   
 
 #### Mentor Details
 
